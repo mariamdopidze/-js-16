@@ -47,3 +47,29 @@ function calculateNameLength(currency) {
     
      console.log(upperCasertext)
      console.log(lowerCasetext)
+
+     //#1
+     var sum =0;
+     function getSum(a, b) {
+     sum = a + b ;
+      return sum;      }
+
+     getSum(5, 9);
+     console.log (sum);
+
+     if (getSum === even) {
+        console.log ("fulse");}
+
+     if (getSum === odd){
+         console.log("true");}
+        
+     
+     
+       
+        
+
+
+     
+     
+
+     
